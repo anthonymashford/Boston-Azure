@@ -32,7 +32,7 @@ We are going to build out a lab using Terraform. The lab will include the follow
 ### Schematic
 Below is a high-level visual overview of what we are going to deploy into Azure.
 
-<img src="https://github.com/anthonymashford/GAUG2023/blob/9a5846f31b522fd203e417a4471337944159725b/images/TerraformLab-FTC2022.png">
+<img src="https://github.com/anthonymashford/Boston-Azure/blob/c9d49ed6f3c377b8e0b64b0b7444cab0900192b2/images/TerraformLab-FTC2022.png">
 
 ### Deploying the Lab
 Next, we will go through the steps required to deploy the ANF Lab using Terraform and the code in this repo.
